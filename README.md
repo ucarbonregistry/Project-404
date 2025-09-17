@@ -37,6 +37,18 @@ The project activity was commissioned on 30/05/2009. The yearly emission reducti
 by the project activity is estimated to be 28548 tCO2e/yr. During the current UCR monitoring
 period, the plant underwent continued operation, except scheduled maintenance or breakdown.
 _______
+ISSUE DATE: 18/09/2025
+
+MP-02: 01/01/2024-31/12/2025
+
+QTY: 17453
+_________
+Serial Number: 0002-140601-158053-UCR-CoU-IN-404-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 17453
+___________
 ISSUE DATE: 10/07/2024
 
 MP-01: 2013-2023
